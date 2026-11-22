@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carebridge-healthcare.vercel.app/sitemap.xml
